@@ -1,11 +1,11 @@
 # list-box-item-reorder
 ListBox Items Index Reorder using pure Javascript (Web)
 
-![alt text](https://github.com/guihensanfer/list-box-item-reorder/simple_example.jpg)
+![alt text](https://github.com/guihensanfer/list-box-item-reorder/blob/master/simple_example.jpg)
 
 ```html
-    <!--ListBox-->
-    <select id="listBox1" size="5">
+    		<!--ListBox-->
+   		<select id="listBox1" size="5">
 			<option selected="selected" value="1">Item 1</option>
 			<option value="2">Item 2</option>	
 			<option value="3">Item 3</option>
