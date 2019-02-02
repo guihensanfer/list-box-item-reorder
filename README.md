@@ -40,12 +40,12 @@ Add for your select list two buttons with onclick event. Call the method Javascr
   ```javascript
   // onclick event buttons
   // Item to top reorder
-  ItemUpDown('listBox1', 1);
+  ItemUpOrDown('listBox1', 1);
   // Or, if you wanna reorder to bottom
-  ItemUpDown('listBox1', -1);
+  ItemUpOrDown('listBox1', -1);
   
   // You can use any numbers based in your list items count
   // Example
-  ItemUpDown('listBox1', -4);
+  ItemUpOrDown('listBox1', -4);
   ItemUpDown('listBox1', 3);
 ```
